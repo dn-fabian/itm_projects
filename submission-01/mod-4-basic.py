@@ -2,7 +2,6 @@
 
 Useful Business Calculations
 
-This assignment covers your basic proficiency with Python.
 '''
 
 import math
